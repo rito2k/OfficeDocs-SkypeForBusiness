@@ -103,7 +103,7 @@ Supported device compliance settings and recommendations for their use with Team
 
 #### [Teams Rooms on Android (AOSP DM)](#tab/mtr-a)
 
-Supported device compliance settings for Teams Rooms on Andorid devices enrolled with AOSP Device Management (AOSP DM).  
+Supported device compliance settings for Teams Rooms on Android devices enrolled with AOSP Device Management (AOSP DM).  
 
 | Policy | Availability | Notes |
 |--------------|---------------|----------------|
